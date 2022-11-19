@@ -4,7 +4,7 @@
   "description": "A (almost) monochromatic color theme with redish pink details.",
   "publisher": "massoladb",
   "repository": "github:massoladb/almost-monochromatic",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "engines": {
     "vscode": "^1.73.0"
   },
